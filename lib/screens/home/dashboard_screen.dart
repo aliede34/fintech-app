@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../providers/auth_provider.dart';
 import '../../providers/transaction_provider.dart';
+import '../../models/transaction.dart';
 import '../../utils/theme.dart';
 import '../transaction/transfer_screen.dart';
 import '../transaction/transaction_history_screen.dart';
